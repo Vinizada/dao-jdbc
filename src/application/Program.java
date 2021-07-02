@@ -55,6 +55,12 @@ public class Program {
 		System.out.println("Update completed");
 		
 		
+		
+		
+		
+		
+		
+		
 		System.out.println("\n=== TEST 6: seller delete =====");
 		System.out.println("Enter id for delete test: ");
 		int id = sc.nextInt();
